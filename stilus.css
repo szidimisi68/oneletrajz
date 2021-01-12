@@ -1,0 +1,35 @@
+.kep
+{
+width: 150px;
+float: right
+}
+
+body
+{
+    margin-left: 16cm;
+    margin-right: 16cm;
+    margin-top: 2cm;
+    font-family: 'Calibri';
+
+}
+#link  
+{
+    line-height: 25px;
+}
+.sorkoz
+{
+    line-height: 40px;
+}
+td,p
+{
+    font-size: 14pt;
+}
+ul li
+{
+    font-size: 15pt;
+}
+
+div
+{
+
+}
