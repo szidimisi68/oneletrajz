@@ -1,35 +1,82 @@
-.kep
+#kep1
 {
 width: 150px;
-float: right
+float: right;
+padding-top:50px;
 }
-
-body
+#kep2
 {
-    margin-left: 16cm;
-    margin-right: 16cm;
-    margin-top: 2cm;
-    font-family: 'Calibri';
-
+width: 250px;
+float: right;
+padding-top:20px;
 }
+
 #link  
 {
     line-height: 25px;
 }
+
 .sorkoz
 {
     line-height: 40px;
 }
+
+.oszlop2
+{
+    padding-left: 30px;
+}
+
+article.art1
+{
+    margin-right: 170px;
+    padding-left: 10px;
+    padding-bottom: 20px;
+}
+article.art2
+{
+    margin-right: 270px;
+    padding-left: 10px;
+    padding-bottom: 1px;
+}
+article.art3
+{
+    padding-left: 10px;
+    padding-bottom: 1px;
+}
+
 td,p
 {
     font-size: 14pt;
 }
+
 ul li
 {
     font-size: 15pt;
 }
 
+body
+{
+    font-family: 'Calibri';
+    background-color: rgb();
+}
+
+header
+{
+text-align: center;
+}
+
 div
 {
+margin: auto;
+width: 750px;
+margin-top: 1cm;
+background-color: rgb(
+    242, 242, 242
+    );
+padding: 10px 30px 40px;
+}
 
+article
+{
+    background-color: rgb(224, 224, 224);
 }
