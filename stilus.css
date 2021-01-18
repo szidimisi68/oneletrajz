@@ -57,7 +57,6 @@ ul li
 body
 {
     font-family: 'Calibri';
-    background-color: rgb();
 }
 
 header
@@ -70,10 +69,9 @@ div
 margin: auto;
 width: 750px;
 margin-top: 1cm;
-background-color: rgb(
-    242, 242, 242
-    );
+background-color: rgb(242, 242, 242);
 padding: 10px 30px 40px;
+border
 }
 
 article
